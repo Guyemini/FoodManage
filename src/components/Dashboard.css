@@ -80,18 +80,6 @@
   animation: pulse 2s infinite;
 }
 
-.dash-badge-coming {
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  background-color: #bdc3c7;
-  color: #7f8c8d;
-  padding: 4px 10px;
-  border-radius: 50px;
-  font-size: 11px;
-  font-weight: 600;
-}
-
 @keyframes pulse {
   0% { transform: scale(1); }
   50% { transform: scale(1.05); box-shadow: 0 0 10px rgba(231, 76, 60, 0.5); }

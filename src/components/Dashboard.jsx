@@ -30,7 +30,6 @@ function Dashboard({ setCurrentScreen, lowStockCount }) {
           <div className="card-icon">🍳</div>
           <h3>תפריטים ומנות</h3>
           <p>בניית מנות, עצי מוצר (רספיז) וחישוב עלויות חומרי גלם.</p>
-          <span className="dash-badge-coming">בקרוב</span>
         </div>
       </div>
     </div>
